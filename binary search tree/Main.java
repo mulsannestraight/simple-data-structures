@@ -1,4 +1,4 @@
-public class FALL_2017_COMP182_16605_Tuesday_Thursday_Vattanak_Keo_31Oct2017_Proj_02 {
+public class Main {
   public static void main(String[] args) {
     BST bst = new BST(-80);
     
